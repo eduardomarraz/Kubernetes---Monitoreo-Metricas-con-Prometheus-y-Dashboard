@@ -1,0 +1,8 @@
+resources:
+  - gfn-deployment.yaml
+  - gfn-configmap.yaml
+  - gfn-hpa.yaml
+  - gfn-pv.yaml
+  - gfn-pvc.yaml
+  - gfn-service.yaml
+  - provisioning/datasources.yaml

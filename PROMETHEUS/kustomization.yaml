@@ -1,0 +1,5 @@
+resources:
+  - prometheus.yaml
+  - ptheus-configmap.yaml
+  - ptheus-deployment.yaml
+  - ptheus-service.yaml
