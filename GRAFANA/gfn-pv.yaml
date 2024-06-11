@@ -8,4 +8,4 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/mnt/data/grafana"
+    path: "/mnt/data/grafana" # Esta ruta da igual solo, para crearla y relacionarla con el Claim
